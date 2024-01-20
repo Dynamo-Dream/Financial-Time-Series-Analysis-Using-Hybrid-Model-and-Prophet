@@ -1,6 +1,6 @@
-### Repository For Exploring the Impact of Financial News Sentiment on Stock Price Forecasting: A Comparative Deep Learning Approach
+## Repository For Exploring the Impact of Financial News Sentiment on Stock Price Forecasting: A Comparative Deep Learning Approach
 - The application of Artificial Intelligence (AI) in
-stock price prediction has demonstrated significant advancements, with Machine Learning and Deep Learning techniques
+stock price prediction has demonstrated significant advancements, with Machine Learning and Deep Learning techniques
 proving highly efficient in this domain. Two widely adopted
 architectures for stock price prediction are the Long Short Term
 Memory (LSTM) and Gated Recurrent Unit (GRU) models.
@@ -20,15 +20,15 @@ comparative analysis provide valuable implications for precision
 in stock price prediction within the context of market volatility
 and non-linearity. The study adds to the growing body of research
 on the application of AI in financial forecasting, emphasizing
-the importance of considering sentiment analysis alongside traditional approaches for enhanced predictive accuracy.
+the importance of considering sentiment analysis alongside traditional approaches for enhanced predictive accuracy.
 Index Terms—LSTM, GRU, Prophet, Time Series Analysis,
 National Stock Exchange (NSE)
-#### Proposed Framework
+### Proposed Framework
 **Data Exploration**
 -   Rolling Mean and Rolling Std Analysis
 -   Seasonal Decomposition Analysis
 -   ADF Test (Augmented Dickey-Fuller Test)
 -   ACF (Autocorrelation Function) and PACF (Partial
 Autocorrelation
-**Model**
+- **Model**
 - This Repository only Consist Code for Hybrid Model of LSTM and GRU compared with FB Prophet
